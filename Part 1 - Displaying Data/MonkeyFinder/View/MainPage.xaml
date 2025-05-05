@@ -19,6 +19,22 @@
                      Name="Red-shanked douc"
                      Image="https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/douc.jpg"
                      Location="Vietnam" />
+                <model:Monkey
+                     Name="Red-shanked douc2"
+                     Image="https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/douc.jpg"
+                     Location="Vietnam" />
+                <model:Monkey
+                     Name="Red-shanked douc3"
+                     Image="https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/douc.jpg"
+                     Location="Vietnam" />
+                <model:Monkey
+                     Name="Red-shanked douc4"
+                     Image="https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/douc.jpg"
+                     Location="Vietnam" />
+                <model:Monkey
+                     Name="Red-shanked douc5"
+                     Image="https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/douc.jpg"
+                     Location="Vietnam" />
             </x:Array>
         </CollectionView.ItemsSource>
 
